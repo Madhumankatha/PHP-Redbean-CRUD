@@ -1,0 +1,19 @@
+/*.footer {*/
+/*    position:  ;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*    width: 100%;*/
+/*    background-color: indigo;*/
+/*    color: white;*/
+/*    text-align: center;*/
+/*}*/
+
+
+.footer {
+    padding-top: 1.5rem;
+    color: #777;
+    border-top: .05rem solid #e5e5e5;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
